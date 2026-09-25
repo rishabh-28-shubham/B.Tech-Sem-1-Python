@@ -1,0 +1,1 @@
+print(list.insert(6,55))
