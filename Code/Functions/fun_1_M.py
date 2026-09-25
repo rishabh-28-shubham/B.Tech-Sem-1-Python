@@ -1,37 +1,20 @@
-# function - syntax
+def greet(name,age):
+    print("hello",name, "your age is :",age)
 
-# def func_name():
-#     //code
+# greet()
+# x = input("Enter your name: ")
+# y = int(input("Enter your age: "))
 
-# Example 
+# greet(x,y)
+
+# def sum(x,y):
 
 def sum(x,y):
-    print(x+y)
+    # print(x+y)
+    return x+y
 
-# 1. Define
-# 2. function call
-# 3. Execute
-sum(1,2)
+print(sum(10,5))
 
+y = sum(2,3)
 
-l = [1,2,3,4,5] #x -> l
-
-def pl(x):
-    for i in range(len(x)): #len - 5
-        # i holds index value 
-        print(x[i], end = " ")
-    print()
-
-pl(l)
-
-l.append(45)
-pl(l)
-
-l.pop()
-pl(l)
-
-s = "Hello World"
-pl(s)
-
-t = (10,20,30,40)
-pl(t)
+print(y)
