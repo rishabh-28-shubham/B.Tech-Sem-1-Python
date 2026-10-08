@@ -1,0 +1,14 @@
+PRACTICE QUESTION'S FOR Recursion
+
+Find the factorial of a number using recursion.
+Find the sum of numbers from 1 to n using recursion.
+Find the nth Fibonacci number using recursion.
+Find the sum of all digits of a number using recursion.
+Count the number of digits in a number using recursion.
+Calculate a^b using recursion without using ** or pow()
+Find the GCD/HCF of two numbers using recursion.
+Find the LCM of two numbers using recursion.
+Find the product of digits of a number recursively.
+Check whether a number is a prime number using recursion.
+Find the sum of even digits and sum of odd digits separately using recursion.
+Check whether a number is an Armstrong number using recursion.
